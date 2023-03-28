@@ -10,10 +10,7 @@
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
-- Machine Learning 🧐
-- Data Science 😬
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=hi-manss&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
@@ -21,9 +18,8 @@
     
 🛠**Tech Stack**
 
-![Python](https://img.shields.io/badge/-JAVA-000000?style=flat&logo=java)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
+![JAVA](https://img.shields.io/badge/-JAVA-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JS-000000?style=flat&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
@@ -33,9 +29,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
 
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
+
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
