@@ -18,7 +18,7 @@
     
 🛠**Tech Stack**
 
-![JAVA](https://img.shields.io/badge/-JAVA-000000?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JS-000000?style=flat&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
