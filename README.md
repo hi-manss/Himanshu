@@ -22,7 +22,10 @@
 🛠**Tech Stack**
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
+
 ![JavaScript](https://img.shields.io/badge/-JS-000000?style=flat&logo=JavaScript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=Android)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
@@ -31,7 +34,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
-
 
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
