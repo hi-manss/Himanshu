@@ -3,6 +3,8 @@
 
 ## Hi there, I am Himanshu Chauhan 👋
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=hi-manss alt=Himanshu Chauhan/> </p>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-himanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hi-manss/)](https://www.linkedin.com/in/hi-manss/)
 [![Gmail Badge](https://img.shields.io/badge/-himansh7u@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:himansh7u@gmail.com)](mailto:rajaprerak@gmail.com) 
