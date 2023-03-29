@@ -20,7 +20,8 @@
     </a> -->
     
 🛠**Tech Stack**
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
+
+
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JS-000000?style=flat&logo=JavaScript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
